@@ -1,4 +1,4 @@
-# policy-llm
+# NOESIS-llm
 
 Create new env:
 conda create -n llm-policy python=3.9.18conda activate llm-policy
